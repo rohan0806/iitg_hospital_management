@@ -1,0 +1,41 @@
+System Requirements:
+1. Python 2.7
+2. Django 1.8
+3. Pytz Package
+
+To runserver go to directory hospital_management_system in hms2.4 folder and type command python manage.py runsever
+
+Site admin username is 'admin' and password is 'admin'. Url for site admin is localhost: port/admin
+
+Other user can login through the site login which can be accessed through link localhost: port/rtc, as
+explained in the user manual.
+
+Following Usernames are Already Existing Password for each is “pass”.
+
+Patients: (can access Insurance, Complaint and Feedback forum)
+1. pat1
+2. pat2
+.
+.
+.
+.
+89. pat89
+
+Doctors: (can access RTC, feedback forum and feedback forum)
+1. doc1
+2. doc2
+3. doc3
+.
+.
+.
+.
+14. doc14
+
+Reception (can access RTC)
+1. recepetion
+
+Admin (can access Insurance and Complaint Forum)
+1. cadmin
+
+Link To the Presentation
+http://prezi.com/shxrzxf3tf9p/?utm_campaign=share&utm_medium=copy&rc=ex0share
